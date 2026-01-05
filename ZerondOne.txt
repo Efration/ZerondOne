@@ -4,3 +4,8 @@ vless://2b4b3265-5bda-4d5f-8295-918a17b5c0a9@93.94.51.7:54096?type=tcp&encryptio
 vless://9aac4871-97cc-45ea-869f-b2649a9172f0@89.23.108.8:47070?type=tcp&encryption=none&security=reality&pbk=w5vfA2ik_Sn3xSs7X4W1jXhzhUuE7fWzOZ_b-MKxlAs&fp=chrome&sni=yandex.ru&sid=a0fc8b106ee83bf6&spx=%2F#🇩🇪EVAVPN[DE2]
 vless://e143b5d8-3966-4723-85ff-e092eb16d6b9@89.185.84.172:47966?type=tcp&encryption=none&security=reality&pbk=ydQnGZOSISdOBSivCClsFbcY5ypHyU-a6stxZ0gxM1A&fp=chrome&sni=yandex.ru&sid=79086e6032751879&spx=%2F#🇬🇧EVAVPN[GB]
 
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱[NL1]
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪[DE1]
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇺🇸[US1]
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇺🇸[US2]
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇺🇸[US3]
