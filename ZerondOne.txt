@@ -12,6 +12,5 @@ vless://9819f70f-1a8a-4a86-8ca5-da62e7b05ea0@206.189.9.218:443?type=tcp&encrypti
 vless://ce1e94ce-9c15-47c4-c0fc-8057e3daf2b7@134.122.56.234:443?type=tcp&encryption=none&security=reality&pbk=o4un3azI1g5ZG0UiEno-3A2oyRxnT6cRsmWW7ckE6ho&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇳🇱[NL3]
 vless://9819f70f-1a8a-4a86-8ca5-da62e7b05ea0@161.35.37.179:443?type=tcp&encryption=none&security=reality&pbk=69uig3XW3j1REkJOKMrtNN7rycaEnwoCfoNkgmpPEEM&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB1]
 vless://9819f70f-1a8a-4a86-8ca5-da62e7b05ea0@144.126.234.242:443?type=tcp&encryption=none&security=reality&pbk=69uig3XW3j1REkJOKMrtNN7rycaEnwoCfoNkgmpPEEM&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB2]
-vless://9819f70f-1a8a-4a86-8ca5-da62e7b05ea0@138.68.169.114:443?type=tcp&encryption=none&security=reality&pbk=69uig3XW3j1REkJOKMrtNN7rycaEnwoCfoNkgmpPEEM&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB3]
-vless://ce1e94ce-9c15-47c4-c0fc-8057e3daf2b7@144.126.233.212:443?type=tcp&encryption=none&security=reality&pbk=o4un3azI1g5ZG0UiEno-3A2oyRxnT6cRsmWW7ckE6ho&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB4]
-vless://ce1e94ce-9c15-47c4-c0fc-8057e3daf2b7@159.65.20.65:443?type=tcp&encryption=none&security=reality&pbk=o4un3azI1g5ZG0UiEno-3A2oyRxnT6cRsmWW7ckE6ho&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB5]
+vless://ce1e94ce-9c15-47c4-c0fc-8057e3daf2b7@144.126.233.212:443?type=tcp&encryption=none&security=reality&pbk=o4un3azI1g5ZG0UiEno-3A2oyRxnT6cRsmWW7ckE6ho&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB3]
+vless://ce1e94ce-9c15-47c4-c0fc-8057e3daf2b7@159.65.20.65:443?type=tcp&encryption=none&security=reality&pbk=o4un3azI1g5ZG0UiEno-3A2oyRxnT6cRsmWW7ckE6ho&fp=safari&sni=yahoo.com&sid=&spx=%2F#🇬🇧[GB4]
