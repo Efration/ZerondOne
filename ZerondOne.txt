@@ -2,5 +2,8 @@ vless://2bcc222f-03cc-427d-8577-779d47f064d7@212.192.14.250:15387?type=tcp&encry
 
 vless://0775aeb6-b430-45da-ad1f-f000a9db3980@185.193.89.31:51254?type=tcp&encryption=none&security=reality&pbk=sNgwUJuVek77Vs9ROk1def4Y7GuIMVmMG5_6YNTYJQ4&fp=chrome&sni=yandex.ru&sid=ab328b6970282958&spx=%2F#🇫🇷EVAVPN[FR]
 
-🇩🇪EVAVPN[DE]
 vless://2b4b3265-5bda-4d5f-8295-918a17b5c0a9@93.94.51.7:54096?type=tcp&encryption=none&security=reality&pbk=jV3zqrWyxHdXtkIEGpf9-urvfNmhS3IyHxIuuVwS-iY&fp=chrome&sni=yandex.ru&sid=753a486c4579a995&spx=%2F#🇩🇪EVAVPN[DE]
+
+vless://9aac4871-97cc-45ea-869f-b2649a9172f0@89.23.108.8:47070?type=tcp&encryption=none&security=reality&pbk=w5vfA2ik_Sn3xSs7X4W1jXhzhUuE7fWzOZ_b-MKxlAs&fp=chrome&sni=yandex.ru&sid=a0fc8b106ee83bf6&spx=%2F#🇩🇪EVAVPN[DE2]
+
+vless://e143b5d8-3966-4723-85ff-e092eb16d6b9@89.185.84.172:47966?type=tcp&encryption=none&security=reality&pbk=ydQnGZOSISdOBSivCClsFbcY5ypHyU-a6stxZ0gxM1A&fp=chrome&sni=yandex.ru&sid=79086e6032751879&spx=%2F#🇬🇧EVAVPN[GB]
