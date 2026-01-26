@@ -1,19 +1,9 @@
 EvaVPN (30Days):
-vless://2bcc222f-03cc-427d-8577-779d47f064d7@212.192.14.250:15387?type=tcp&encryption=none&security=reality&pbk=_pBbnOTsU-E7FofNeP9iNFEEMHn66HJ1UXGy9uL85Sw&fp=chrome&sni=yandex.ru&sid=c425efebe02034ac&spx=%2F#🇷🇺EVAVPN[RU]
-vless://0775aeb6-b430-45da-ad1f-f000a9db3980@185.193.89.31:51254?type=tcp&encryption=none&security=reality&pbk=sNgwUJuVek77Vs9ROk1def4Y7GuIMVmMG5_6YNTYJQ4&fp=chrome&sni=yandex.ru&sid=ab328b6970282958&spx=%2F#🇫🇷EVAVPN[FR]
-vless://2b4b3265-5bda-4d5f-8295-918a17b5c0a9@93.94.51.7:54096?type=tcp&encryption=none&security=reality&pbk=jV3zqrWyxHdXtkIEGpf9-urvfNmhS3IyHxIuuVwS-iY&fp=chrome&sni=yandex.ru&sid=753a486c4579a995&spx=%2F#🇩🇪EVAVPN[DE]
-vless://9aac4871-97cc-45ea-869f-b2649a9172f0@89.23.108.8:47070?type=tcp&encryption=none&security=reality&pbk=w5vfA2ik_Sn3xSs7X4W1jXhzhUuE7fWzOZ_b-MKxlAs&fp=chrome&sni=yandex.ru&sid=a0fc8b106ee83bf6&spx=%2F#🇩🇪EVAVPN[DE2]
-vless://e143b5d8-3966-4723-85ff-e092eb16d6b9@89.185.84.172:47966?type=tcp&encryption=none&security=reality&pbk=ydQnGZOSISdOBSivCClsFbcY5ypHyU-a6stxZ0gxM1A&fp=chrome&sni=yandex.ru&sid=79086e6032751879&spx=%2F#🇬🇧EVAVPN[GB]
-
-ovaVPN (30Days):
-vless://99f08f33-a31f-41b9-b901-6b59ee015df8@94.198.100.250:443?security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none#🇮🇹avoVPN[IT]
-
-7Days:
-vless://8aa0ae6d-a5d1-4669-8e34-340d9c0f2a97@84.ya-og.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&sid=c5ae63ea7da57035#🇷🇺7Days[RU]
-vless://8aa0ae6d-a5d1-4669-8e34-340d9c0f2a97@51-ge.ya-og.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&sid=c5ae63ea7da57035#🇩🇪7Days[DE]
-
-Other Servers:
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱[NL1]
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪[DE1]
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇺🇸[US1]
+vless://9d877d82-0f48-401a-92fb-499982a7b82f@80.253.251.119:41006?type=tcp&encryption=none&security=reality&pbk=FMZo51qOq7aZsF9RJsmSK3nzprGtaYTgVplK0cTMKgA&fp=chrome&sni=yandex.ru&sid=2821b11f0afab412&spx=%2F#🇩🇪EVAVPN[DE]
+vless://2adee04b-8271-4d49-8390-613044813595@109.172.55.220:17473?type=tcp&encryption=none&security=reality&pbk=sf1ghMblinzOQr4lWWNrfjLBGdB4WxsPa_P0nu_wuxM&fp=chrome&sni=yandex.ru&sid=8704f928829e435d&spx=%2F#🇫🇷EVAVPN[FR]
+vless://88949104-afba-4980-b600-7bcd2289ef18@147.45.179.142:14198?type=tcp&encryption=none&security=reality&pbk=rnzU0b0oJgotOQeQ-qr8xHAigKeGqrduHIMhTjM6kCw&fp=chrome&sni=yandex.ru&sid=927217fe490a5a15&spx=%2F#🇬🇧EVAVPN[GB]
+vless://ddbad28d-f9c8-445b-8d80-296b2f3fc6f0@194.150.220.96:41920?type=tcp&encryption=none&security=reality&pbk=MOPG_9DSI8OYTYWdN9DuQ2xDf589IBzgvZZvjMJXek0&fp=chrome&sni=yandex.ru&sid=b429eb755698148c&spx=%2F#🇳🇱EVAVPN[NL]
+vless://32383e58-f8ef-473f-81e1-fc2079872050@77.83.245.28:23105?type=tcp&encryption=none&security=reality&pbk=PWCwgr0ljalq58ACQ4P2ayTZY84yk523m5ic8mLAT20&fp=chrome&sni=yandex.ru&sid=f1fb6d0b7fdce431&spx=%2F#🇹🇷EVAVPN[TR]
+vless://f7acfe0a-ed00-4d29-a61a-ba8a7b8a827c@45.151.62.131:64999?type=tcp&encryption=none&security=reality&pbk=hZcrKClsrWxeqvQqNN6IbavQ5StbfR5vXbCdkRO4ezE&fp=chrome&sni=yandex.ru&sid=c49b80c2d789a4f9&spx=%2F#🇷🇺EVAVPN[RU]
+vless://7fc9a5b4-440d-40c7-9abd-7ab3669ef575@81.19.140.165:41533?type=tcp&encryption=none&security=reality&pbk=uev9pBq_bs2XjYt-jQhLzyebykzivfgqsEDrRmvY0U8&fp=chrome&sni=yandex.ru&sid=ed6bae94cc75c517&spx=%2F#🇨🇦EVAVPN[CA]
 
