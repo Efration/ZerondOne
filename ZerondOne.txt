@@ -11,8 +11,8 @@ vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?type=tcp&encrypt
 vless://be69896f-e641-41d9-bfc8-1e30885263d2@141.98.234.40:62520?type=tcp&encryption=none&security=reality&pbk=OTbIHKT0UyR2T2ooCpI0Ozivr1JHUwOs29LQHtYltkk&fp=chrome&sni=yandex.ru&sid=46319295d140d75d&spx=%2F#🇭🇰EVAVPN[HK]
 vless://5d4ffec0-b2b1-43b9-b916-9451fa3bfedb@212.192.14.250:19406?type=tcp&encryption=none&security=reality&pbk=4HocaGOKCWQlVPyLNSSo4cnjf3ElSAlJbPUsuy2hgAQ&fp=chrome&sni=yandex.ru&sid=98259b065f7d8403&spx=%2F#🇷🇺EVAVPN[RU]
 Other:
-vless://913b07fe-eae9-4985-9a39-33acaba25a2c@kaz-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=86e999a2cdc2#🇰🇿 [KZ]
-vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#🇫🇮 [FI]
+vless://913b07fe-eae9-4985-9a39-33acaba25a2c@kaz-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=86e999a2cdc2#🇰🇿[KZ]
+vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#🇫🇮[FI]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685?#🇹🇷[TR1]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷[TR2]
 vless://0dde7988-1d5b-416f-8184-668b1a36bc48@146.185.240.23:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇹🇷[TR3]
