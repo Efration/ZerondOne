@@ -1,5 +1,7 @@
 EvaVPN (30Days):
-vless://edda9128-ef32-4a18-9175-64f8da5998f7@80.253.251.72:58719?type=tcp&encryption=none&security=reality&pbk=1woOpAjA9aqE3jeA_a1XtkZMBnlMe5U0YlwO3XwSzms&fp=chrome&sni=yandex.ru&sid=c1a88590c3b5df1d&spx=%2F#🇩🇪EVAVPN[DE]
+vless://edda9128-ef32-4a18-9175-64f8da5998f7@80.253.251.72:58719?type=tcp&encryption=none&security=reality&pbk=1woOpAjA9aqE3jeA_a1XtkZMBnlMe5U0YlwO3XwSzms&fp=chrome&sni=yandex.ru&sid=c1a88590c3b5df1d&spx=%2F#🇩🇪EVAVPN[DE1]
+vless://c7790f42-708f-4713-adfc-f98c06e30531@80.253.251.76:60480?type=tcp&encryption=none&security=reality&pbk=ZmR8H7S-RiUCwLVcEIJXUEl1fdRIYCGihwaSvklB2V0&fp=chrome&sni=yandex.ru&sid=e20c1328a5592e81&spx=%2F#🇩🇪EVAVPN[DE2]
+vless://8f09e644-7208-4f38-ac2f-db6d23cc647f@80.253.251.122:13686?type=tcp&encryption=none&security=reality&pbk=E2rSTxjCs8arrVzkG0htKf5OQt6wyoIsvwnsvkmKanQ&fp=chrome&sni=yandex.ru&sid=fd38dd693669e822&spx=%2F#🇩🇪EVAVPN[DE3]
 vless://01384648-c2cb-4ee8-aeb1-cdcc6ce57e6a@45.95.233.233:33195?type=tcp&encryption=none&security=reality&pbk=tmwX2yKxm6ohnur9_d5Yy8m3FHvR-ahBufpxcMCYn0g&fp=chrome&sni=yandex.ru&sid=10f1bc7b131a5b20&spx=%2F#🇫🇷EVAVPN[FR1]
 vless://d5d52c15-f963-42b8-971b-613fc9c5e7e3@109.172.55.220:58198?type=tcp&encryption=none&security=reality&pbk=zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE&fp=chrome&sni=yandex.ru&sid=2c8a6793b9de7014&spx=%2F#🇫🇷EVAVPN[FR2]
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&encryption=none&security=reality&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&fp=chrome&sni=yandex.ru&sid=34d8e80d8fa40501&spx=%2F#🇫🇷EVAVPN[FR3]
