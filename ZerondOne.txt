@@ -11,6 +11,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzY4ZjA1NTI0M2UyMjVm@135.125.219.2:12911?#�
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.102:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE8]
 trojan://mitivpn@45.130.125.76:443?security=tls&sni=www.app-cloud.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&path=%2F%3Fed%3D2048#🇩🇪[DE9]
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE10]
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE11]
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE12]
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGM1tJTjFdIiwNCiAgImFkZCI6ICIxNzIuMjMyLjEwMy4xODYiLA0KICAicG9ydCI6ICIyMjMyNCIsDQogICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1WXBvN2RFSjJtTGR0SGJr@20.87.107.99:443?#🇿🇦[ZA1]
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGNVx1RDgzQ1x1RERGMVtQTDFdIiwNCiAgImFkZCI6ICJwbC5jb25uZnVsbC5vcmciLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogImQ4YTcwNmQwLTlmMjEtNDZiOC05YzA4LWY4MjZiNzc5OWM3NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
@@ -28,10 +31,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080?#🇳🇱[NL11]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080?#🇳🇱[NL12]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?#🇳🇱[NL13]
+vless://c6a1fa51-c3f5-4551-931e-98cadf705962@nl.rush-server.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=anyfile2file.com&fp=qq&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=d1579a8745398e34&type=tcp&headerType=none#🇳🇱[NL14]
 vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv5.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🇬🇧[GB1]
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇬🇧[GB2]
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.121.71:443?encryption=none&security=tls&sni=pagescm.freen34.cc.cd&insecure=1&allowInsecure=1&type=ws&host=pagescm.freen34.cc.cd&path=%2Fquestion%2Favatar%2Fhot#🇦🇿[AZ1]
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.153.95:443?encryption=none&security=tls&sni=pagescm.freen30.cc.cd&insecure=1&allowInsecure=1&type=ws&host=pagescm.freen30.cc.cd&path=%2Fredirect.htmlfp#🇦🇿[AZ2]
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?encryption=none&security=tls&sni=jp.aniua.qzz.io&insecure=0&allowInsecure=0&type=ws&host=jp.aniua.qzz.io&path=%2F#🇦🇿[AZ3]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUjJ4Q2NKa21SMXBmdG1OMzAwQ05K@62.60.233.226:62763?#🇹🇷[TR1]
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNVtKUDFdIiwNCiAgImFkZCI6ICIxMDMuMTI3LjI0My40OSIsDQogICJwb3J0IjogIjUzMjI0IiwNCiAgImlkIjogIjRmNDdlNmNjLTY1OWQtNDU4OC04MTU1LTIxZDI3ODJmMWI5MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9BQkNERSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
 vless://0dc22208-cea4-4423-b3c3-a36957e23233@91.225.217.26:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Zd5BqaW-kyJqZANUH2cIARr466QZw09pNngYjsEK1w8&sid=30fa&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%A9%5BMD1%5D
