@@ -13,7 +13,6 @@ trojan://mitivpn@45.130.125.76:443?security=tls&sni=www.app-cloud.ir&fp=chrome&a
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE10]
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE11]
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com&path=%2F#🇩🇪[DE12]
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRVx1RDgzQ1x1RERGM1tJTjFdIiwNCiAgImFkZCI6ICIxNzIuMjMyLjEwMy4xODYiLA0KICAicG9ydCI6ICIyMjMyNCIsDQogICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1WXBvN2RFSjJtTGR0SGJr@20.87.107.99:443?#🇿🇦[ZA1]
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGNVx1RDgzQ1x1RERGMVtQTDFdIiwNCiAgImFkZCI6ICJwbC5jb25uZnVsbC5vcmciLA0KICAicG9ydCI6ICIyMDUzIiwNCiAgImlkIjogImQ4YTcwNmQwLTlmMjEtNDZiOC05YzA4LWY4MjZiNzc5OWM3NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIiwNCiAgImluc2VjdXJlIjogIjAiDQp9
